@@ -1,1 +1,1 @@
-"""购物车测试案例。"""
+"""Shopping checkout examples with intentional defects for OpenFix testing."""
